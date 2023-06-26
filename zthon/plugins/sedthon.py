@@ -354,7 +354,7 @@ async def inline_handler(event):  # sourcery no-metrics
 
         text, msg_entities = await event.client._parse_message_text(
 
-            "𝗗𝗲𝗽𝗹𝗼𝘆 𝘆𝗼𝘂𝗿 𝗼𝘄𝗻 𝗧𝗘𝗣𝗧𝗛𝗢𝗡.", "md"
+            "𝗗𝗲𝗽𝗹𝗼𝘆 𝘆𝗼𝘂𝗿 𝗼𝘄𝗻 𝗦𝞝𝗗𝙏𝙃𝙊𝙉.", "md"
 
         )
 
@@ -364,7 +364,7 @@ async def inline_handler(event):  # sourcery no-metrics
 
             type="photo",
 
-            title="𝗧𝗘𝗣𝗧𝗛𝗢𝗡 𓅛",
+            title="𝗦𝞝𝗗𝙏𝙃𝙊𝙉 𓅛",
 
             description="روابـط التنصـيب",
 
