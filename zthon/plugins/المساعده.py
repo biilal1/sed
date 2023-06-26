@@ -8,7 +8,7 @@ from zthon import zedub
 
 from ..Config import Config
 from . import mention
-HELP = f"**🧑🏻‍💻┊مـࢪحبًا عـزيـزي {mention}**\n**🛂┊في قائمـة المسـاعـده والشـروحـات\n🛃┊من هنـا يمكنـك إيـجاد شـرح لكـل اوامـر السـورس**\n\n[ᯓ 𝗧𝗘𝗣𝗧𝗛𝗢𝗡 ♥️](https://t.me/Tepthon)\n\n"
+HELP = f"**🧑🏻‍💻┊مـࢪحبًا عـزيـزي {mention}**\n**🛂┊في قائمـة المسـاعـده والشـروحـات\n🛃┊من هنـا يمكنـك إيـجاد شـرح لكـل اوامـر السـورس**\n\n[ᯓ 𝗦𝞝𝗗𝙏𝙃𝙊𝙉 ♥️](https://t.me/E9N99)\n\n"
 
 
 if Config.TG_BOT_USERNAME is not None and tgbot is not None:
@@ -64,7 +64,7 @@ async def help(event):
 @check_owner
 async def _(event):
     butze = [
-        [Button.inline("𝗧𝗘𝗣𝗧𝗛𝗢𝗡 𝗨𝘀𝗲𝗿𝗯𝗼𝘁", data="ZAZ")],
+        [Button.inline("𝗦𝞝𝗗𝙏𝙃𝙊𝙉 𝗨𝘀𝗲𝗿𝗯𝗼𝘁", data="ZAZ")],
         [
             Button.inline("البـوت 🤖", data="botvr"),
             Button.inline("الحساب🎗", data="acccount"),
@@ -95,7 +95,7 @@ async def _(event):
     zelzal = "⤶ عـذراً عـزيـزي 🤷🏻‍♀\n⤶ هـذه اللوحه لا تشتغل في الخاص\n⤶ لـ إظهـار لوحـة المسـاعـدة 👇\n\n⤶ ارســل (.مساعده) في اي مجمـوعـه"
     try:
         await event.edit(
-            "[ᯓ 𝗧𝗘𝗣𝗧𝗛𝗢𝗡 𝗨𝘀𝗲𝗿𝗯𝗼𝘁 - اوامــر البـــوت 🦾🤖](t.me/TepThon) .\n\n**⎉╎اليك عـزيـزي شـࢪوحـات اوامـر البـوت المسـاعد :**\n\n",
+            "[ᯓ 𝗦𝞝𝗗𝙏𝙃𝙊𝙉 𝗨𝘀𝗲𝗿𝗯𝗼𝘁 - اوامــر البـــوت 🦾🤖](t.me/TepThon) .\n\n**⎉╎اليك عـزيـزي شـࢪوحـات اوامـر البـوت المسـاعد :**\n\n",
             buttons=[
                 [
                     Button.inline("تحديث", data="updatevr"),
@@ -135,7 +135,7 @@ async def _(event):
 @check_owner
 async def _(event):
     await event.edit(
-        "[ᯓ 𝗧𝗘𝗣𝗧𝗛𝗢𝗡 𝗨𝘀𝗲𝗿𝗯𝗼𝘁 - ادوات النظــام 🤖](t.me/TepThon) .\n\n**⎉╎اليك عـزيـزي شـࢪوحـات اوامـر نظـام البـوت المسـاعد :**\n\n",
+        "[ᯓ 𝗦𝞝𝗗𝙏𝙃𝙊𝙉 𝗨𝘀𝗲𝗿𝗯𝗼𝘁 - ادوات النظــام 🤖](t.me/E9N99) .\n\n**⎉╎اليك عـزيـزي شـࢪوحـات اوامـر نظـام البـوت المسـاعد :**\n\n",
         buttons=[
             [
                 Button.inline("النظـام", data="syszzz"),
@@ -154,7 +154,7 @@ async def _(event):
 @check_owner
 async def _(event):
     await event.edit(
-        """[ᯓ 𝗧𝗘𝗣𝗧𝗛𝗢𝗡 𝗨𝘀𝗲𝗿𝗯𝗼𝘁 - اوامــر البـــوت 🦾🤖](t.me/TepThon) .
+        """[ᯓ 𝗦𝞝𝗗𝙏𝙃𝙊𝙉 𝗨𝘀𝗲𝗿𝗯𝗼𝘁 - اوامــر البـــوت 🦾🤖](t.me/e9n99) .
 **- الامـر :**
 **⪼** `.النظام`
 
@@ -178,7 +178,7 @@ async def _(event):
 @check_owner
 async def _(event):
     await event.edit(
-        """[ᯓ 𝗧𝗘𝗣𝗧𝗛𝗢𝗡 𝗨𝘀𝗲𝗿𝗯𝗼𝘁 - اوامــر البـــوت 🦾🤖](t.me/TepThon) .
+        """[ᯓ 𝗦𝞝𝗗𝙏𝙃𝙊𝙉 𝗨𝘀𝗲𝗿𝗯𝗼𝘁 - اوامــر البـــوت 🦾🤖](t.me/e9n99) .
 **- الامـر :**
 **⪼** `.فرمته`
 
@@ -196,7 +196,7 @@ async def _(event):
 @check_owner
 async def _(event):
     await event.edit(
-        """[ᯓ 𝗧𝗘𝗣𝗧𝗛𝗢𝗡 𝗨𝘀𝗲𝗿𝗯𝗼𝘁 - اوامــر البـــوت 🦾🤖](t.me/TepThon) .
+        """[ᯓ 𝗦𝞝𝗗𝙏𝙃𝙊𝙉 𝗨𝘀𝗲𝗿𝗯𝗼𝘁 - اوامــر البـــوت 🦾🤖](t.me/e9n99) .
 **- الامـر :**
 **⪼** `.السرعه`
 
@@ -214,7 +214,7 @@ async def _(event):
 @check_owner
 async def _(event):
     await event.edit(
-        """[ᯓ 𝗧𝗘𝗣𝗧𝗛𝗢𝗡 𝗨𝘀𝗲𝗿𝗯𝗼𝘁 - اوامــر البـــوت 🦾🤖](t.me/TepThon) .
+        """[ᯓ 𝗦𝞝𝗗𝙏𝙃𝙊𝙉 𝗨𝘀𝗲𝗿𝗯𝗼𝘁 - اوامــر البـــوت 🦾🤖](t.me/e9n99) .
 **- الامـر :**
 **⪼** `.فاراتي`
 
@@ -232,7 +232,7 @@ async def _(event):
 @check_owner
 async def _(event):
     await event.edit(
-        """[ᯓ 𝗧𝗘𝗣𝗧𝗛𝗢𝗡 𝗨𝘀𝗲𝗿𝗯𝗼𝘁 - اوامــر البـــوت 🦾🤖](t.me/TepThon) .
+        """[ᯓ 𝗦𝞝𝗗𝙏𝙃𝙊𝙉 𝗨𝘀𝗲𝗿𝗯𝗼𝘁 - اوامــر البـــوت 🦾🤖](t.me/TepThon) .
 **- الامـر :**
 **⪼** `.تاريخ التنصيب`
 
