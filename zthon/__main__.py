@@ -8,7 +8,7 @@ from .core.logger import logging
 from .core.session import zedub
 from .utils import mybot, saves
 from .utils import add_bot_to_logger_group, load_plugins, setup_bot, startupmessage, verifyLoggerGroup
-
+#bilal
 LOGS = logging.getLogger("سورس سيدثون")
 cmdhr = Config.COMMAND_HAND_LER
 
