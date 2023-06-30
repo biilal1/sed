@@ -22,7 +22,7 @@ from . import mention
 
 plugin_category = "utils"
 
-@zedub.ar_cmd(
+@zedub.zed_cmd(
     pattern="المطور$",
     command=("المطور", plugin_category),
     info={
