@@ -101,7 +101,7 @@ async def fetch_info(replied_user, event):
     ZEED_IMG
     x = random.randrange(1, 9)
     if x == 1:
-       username = "@{}".format(username) if username else ("@CX_P2")
+       username = "@{}".format(username) if username else ("لايوجد معرف")
        caption = f"<b>  ╮•🦦 الحيوان ⇦ </b> {first_name} {last_name} \n"
        caption += f"<b> ٴ╼──────────────────╾ </b>\n"
        caption += f"<b> • 🌚 | معـرفه  ⇦ </b> {username}\n"
@@ -112,7 +112,7 @@ async def fetch_info(replied_user, event):
        caption += f"<b> 𓆩 𝙎𝙊𝙐𝙍𝘾𝞝 𝗧𝞝𝗣 𓆪 </b> - @Tepthon "
        return sts_animal, caption
     if x == 2:
-       username = "@{}".format(username) if username else ("@CX_P2")
+       username = "@{}".format(username) if username else ("لايوجد معرف")
        caption = f"<b>  ╮•🦦 الحيوان ⇦ </b> {first_name} {last_name} \n"
        caption += f"<b> ٴ╼──────────────────╾ </b>\n"
        caption += f"<b> • 🌚 | معـرفه  ⇦ </b> {username}\n"
@@ -123,7 +123,7 @@ async def fetch_info(replied_user, event):
        caption += f"<b> 𓆩 𝙎𝙊𝙐𝙍𝘾𝞝 𝗧𝞝𝗣 𓆪 </b> - @Tepthon "
        return sts_animal2, caption
     if x == 3:
-       username = "@{}".format(username) if username else ("@CX_P2")
+       username = "@{}".format(username) if username else ("لايوجد معرف")
        caption = f"<b>  ╮•🦦 الحيوان ⇦ </b> {first_name} {last_name} \n"
        caption += f"<b> ٴ╼──────────────────╾ </b>\n"
        caption += f"<b> • 🌚 | معـرفه  ⇦ </b> {username}\n"
@@ -134,7 +134,7 @@ async def fetch_info(replied_user, event):
        caption += f"<b> 𓆩 𝙎𝙊𝙐𝙍𝘾𝞝 𝗧𝞝𝗣 𓆪 </b> - @Tepthon "
        return sts_animal3, caption
     if x == 4:
-       username = "@{}".format(username) if username else (" @CX_P2")
+       username = "@{}".format(username) if username else ("لايوجد معرف")
        caption = f"<b>  ╮•🦦 الحيوان ⇦ </b> {first_name} {last_name} \n"
        caption += f"<b> ٴ╼──────────────────╾ </b>\n"
        caption += f"<b> • 🌚 | معـرفه  ⇦ </b> {username}\n"
@@ -156,7 +156,7 @@ async def fetch_info(replied_user, event):
        caption += f"<b> 𓆩 𝙎𝙊𝙐𝙍𝘾𝞝 𝗧𝞝𝗣 𓆪 </b> - @Tepthon "
        return sts_animal5, caption
     if x == 6:
-       username = "@{}".format(username) if username else ("@CX_P2")
+       username = "@{}".format(username) if username else ("لايوجود معرف")
        caption = f"<b>  ╮•🦦 الحيوان ⇦ </b> {first_name} {last_name} \n"
        caption += f"<b> ٴ╼──────────────────╾ </b>\n"
        caption += f"<b> • 🌚 | معـرفه  ⇦ </b> {username}\n"
@@ -167,7 +167,7 @@ async def fetch_info(replied_user, event):
        caption += f"<b> 𓆩 𝙎𝙊𝙐𝙍𝘾𝞝 𝗧𝞝𝗣 𓆪 </b> - @Tepthon "
        return sts_animal6, caption
     if x == 7:
-       username = "@{}".format(username) if username else ( "@CX_P2")
+       username = "@{}".format(username) if username else ( "لايوجود معرف")
        caption = f"<b>  ╮•🦦 الحيوان ⇦ </b> {first_name} {last_name} \n"
        caption += f"<b> ٴ╼──────────────────╾ </b>\n"
        caption += f"<b> • 🌚 | معـرفه  ⇦ </b> {username}\n"
@@ -178,7 +178,7 @@ async def fetch_info(replied_user, event):
        caption += f"<b> 𓆩 𝙎𝙊𝙐𝙍𝘾𝞝 𝗧𝞝𝗣 𓆪 </b> - @Tepthon "
        return sts_animal7, caption
     if x == 8:
-       username = "@{}".format(username) if username else (" @CX_P2 ")
+       username = "@{}".format(username) if username else ("لايوجود معرف")
        caption = f"<b>  ╮•🦦 الحيوان ⇦ </b> {first_name} {last_name} \n"
        caption += f"<b> ٴ╼──────────────────╾ </b>\n"
        caption += f"<b> • 🌚 | معـرفه  ⇦ </b> {username}\n"
