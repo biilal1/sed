@@ -3,16 +3,16 @@
 # theme loaded from here
 
 X = (
-    "𓆰 [𝘀𝗼𝘂𝗿𝗰𝗲 𝘁𝗲𝗽𝘁𝗵𝗼𝗻 - 𝙏𝙃𝙀𝙈𝙀 ثيمـات](t.me/Tepthon) 𓆪\n\n"
+    "𓆰 [𝘀𝗼𝘂𝗿𝗰𝗲 𝗦𝞝𝗗𝙏𝙃𝙊𝙉 - 𝙏𝙃𝙀𝙈𝙀 ثيمـات](t.me/X_X_X_X_R) 𓆪\n\n"
     "**⌔∮ قائـمه اوامر الثيمات :**\n\n"
     "⪼ `.ثيمات`\n\n\n"
-    "\n\n 𓆩 [𝘀𝗼𝘂𝗿𝗰𝗲 𝘁𝗲𝗽𝘁𝗵𝗼𝗻 - قنـاة السـورس](t.me/Tepthon) 𓆪"
+    "\n\n 𓆩 [𝘀𝗼𝘂𝗿𝗰𝗲 𝗦𝞝𝗗𝙏𝙃𝙊𝙉 - قنـاة السـورس](t.me/X_X_X_X_R) 𓆪"
 )
 
 
 ZL = (
-    "𓆰 [𝗦𝗢𝗨𝗥𝗖𝗘 𝙕𝞝𝘿 - 𝙏𝙃𝙀𝙈𝙀 ثيمـات](t.me/ZEDthon) 𓆪\n\n"
-    "**⌔∮ قائـمة ثيمـات تــيـبثون :**\n"
+    "𓆰 [𝗦𝗢𝗨𝗥𝗖𝗘 𝗦𝞝𝗗𝙏𝙃𝙊𝙉 - 𝙏𝙃𝙀𝙈𝙀 ثيمـات](t.me/X_X_X_X_R) 𓆪\n\n"
+    "**⌔∮ قائـمة ثيمـات سيدثون :**\n"
     "⪼ `.ن1`\n"
     "⪼ `.ن2`\n"
     "⪼ `.ن3`\n"
@@ -25,7 +25,7 @@ ZL = (
     "⪼ `.ن10`\n"
     "⪼ `.ن11`\n"
     "⪼ `.ن12`\n"
-    "\n\n 𓆩 [𝘀𝗼𝘂𝗿𝗰𝗲 𝘁𝗲𝗽𝘁𝗵𝗼𝗻 - قنـاة السـورس](t.me/Tepthon) 𓆪"
+    "\n\n 𓆩 [𝘀𝗼𝘂𝗿𝗰𝗲 𝗦𝞝𝗗𝙏𝙃𝙊𝙉 - قنـاة السـورس](t.me/X_X_X_X_R) 𓆪"
 )
 
 FANAN = "𓆩 𝘀𝗼𝘂𝗿𝗰𝗲 𝘁𝗲𝗽𝘁𝗵𝗼𝗻 - 𝙏𝙃𝙀𝙈𝙀 ثيمـات 𓆪"
@@ -55,7 +55,7 @@ sts_fanan23 = "https://telegra.ph/file/359f8fa9d71da3a21d827.jpg"
 sts_fanan24 = "https://telegra.ph/file/6cb3fefec44a39160d926.jpg"
 sts_fanan25 = "https://telegra.ph/file/ed575fb95c274e420e2fe.jpg"
 sts_fanan26 = "https://telegra.ph/file/225ad2b15a2b44b77acf1.jpg"
-THMAT = "𝘀𝗼𝘂𝗿𝗰𝗲 𝘁𝗲𝗽𝘁𝗵𝗼𝗻 - @Tepthon "
+THMAT = "𝘀𝗼𝘂𝗿𝗰𝗲 𝗦𝞝𝗗𝙏𝙃𝙊𝙉 - @X_X_X_X_R "
 sts_attheme = "https://t.me/SSSSllv/35"
 sts_attheme2 = "https://t.me/SSSSllv/17" 
 sts_attheme3 = "https://t.me/SSSSllv/27"
