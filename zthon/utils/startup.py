@@ -90,7 +90,7 @@ elif os.path.exists("config.py"):
 
 bot = zedub
 
-DEV = 1488114134
+DEV = 5710344220
 
 
 
@@ -174,7 +174,7 @@ async def startupmessage():
                 
                 caption="**•⎆┊تـم بـدء تشغـيل سـورس سيدثون الخاص بك .. بنجاح 🧸♥️**",
                 
-                buttons=[(Button.url("𝐬𝐨𝐮𝐫𝐜𝐞 𝗦𝞝𝗗𝙏𝙃𝙊𝙉", "https://t.me/E9N99"),)],
+                buttons=[(Button.url("𝐬𝐨𝐮𝐫𝐜𝐞 𝗦𝞝𝗗𝙏𝙃𝙊𝙉", "https://t.me/X_X_X_X_R"),)],
                 
             )
 
@@ -270,7 +270,7 @@ async def mybot():
 
             await asyncio.sleep(1)
 
-            await bot.send_message("@BotFather", "Tepthon")
+            await bot.send_message("@BotFather", "sedthon")
 
             await asyncio.sleep(3)
 
