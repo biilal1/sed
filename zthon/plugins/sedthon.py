@@ -330,13 +330,13 @@ async def inline_handler(event):  # sourcery no-metrics
 
             (
 
-                Button.url("قنـاة السـورس", "https://t.me/E9N99"),
+                Button.url("قنـاة السـورس", "https://t.me/X_X_X_X_R"),
 
                 Button.url(
 
                     "مطـور السـورس",
 
-                    "https://t.me/nunuu",
+                    "https://t.me/CX_P2",
 
                 ),
 
@@ -368,7 +368,7 @@ async def inline_handler(event):  # sourcery no-metrics
 
             description="روابـط التنصـيب",
 
-            url="https://t.me/sedthone/10",
+            url="https://t.me/E9N99/90",
 
             thumb=photo,
 
